@@ -1,0 +1,24 @@
+.header {
+	display: flex;
+	padding: 24px;
+	flex-direction: column;
+	align-items: flex-start;
+	align-self: stretch;
+	background: #1F1F21;
+}
+.navbar {
+	margin:0;
+	padding: 0;
+}
+
+.navlinks {
+	color: #FFF;
+	text-align: center;
+	font-family: Roboto;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 27px; 
+	margin:0;
+	padding: 0;
+}
